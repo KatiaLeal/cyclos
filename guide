@@ -1,0 +1,5 @@
+source venv-gem5/bin/activate
+-- Ejecutar VS
+code .
+-- Repositorio CYCLOS en GitHub
+https://github.com/KatiaLeal/cyclos

@@ -32,3 +32,7 @@ configs/example/memcheck.cfg
 configs/dram/lowp_sweep.cfg
 .pyenv
 .vscode
+# Entorno virtual de Katia
+venv-gem5/
+# Archivos de prueba
+test_conection
